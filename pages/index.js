@@ -3,7 +3,7 @@ import styles from "../styles/Home.module.css";
 import Navbar from "../comps/Navbar";
 import Footer from "../comps/Footer";
 import Link from "next/link";
-// From new-branch1
+// From new-branch3
 export default function Home() {
   return (
     <>

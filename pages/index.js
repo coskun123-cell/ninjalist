@@ -3,7 +3,7 @@ import styles from "../styles/Home.module.css";
 import Navbar from "../comps/Navbar";
 import Footer from "../comps/Footer";
 import Link from "next/link";
-
+// From new-branch3
 export default function Home() {
   return (
     <>
@@ -12,7 +12,7 @@ export default function Home() {
         <meta name="keywords" content="ninjas" />
       </Head>
       <div>
-        <h1 className={styles.title}>Home Page</h1>
+        <h1 className={styles.title}>Home Page 3</h1>
         <p className={styles.text}>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam quia
           pariatur, accusantium vitae, eveniet culpa exercitationem magni eaque,
